@@ -10,7 +10,7 @@ Tomado de la **[plantilla del desafío](https://trello.com/b/WDyMPDMb/literalura
 ## Estado del desafío
 :white_check_mark: **2025-06-09**: *Crear el repositorio del proyecto en GitHub.*
 
-:white_check_mark: **Fecha**: *Descripción*
+:white_check_mark: **2025-06-09**: *Configurando el entorno Java y Spring. Configura application.properties con variables de entorno. Creación de la base de datos **literalura**.*
 
 
 :cherries: **Fecha**: *Descripción*
