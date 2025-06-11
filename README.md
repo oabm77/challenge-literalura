@@ -12,6 +12,9 @@ Tomado de la **[plantilla del desafío](https://trello.com/b/WDyMPDMb/literalura
 
 :white_check_mark: **2025-06-09**: *Configurando el entorno Java y Spring. Configura application.properties con variables de entorno. Creación de la base de datos **literalura**.*
 
+:white_check_mark: **2025-06-10**: *Conociendo la API para traer datos. Revisión de los parámetros de consumo y pruebas en la herramienta Postman.*
+
+:white_check_mark: **2025-06-11**: *Construyendo una solicitud de API: uso de las clases HttpClient, HttpRequest y HttpResponse, para acceder a los resultados de la API.*
 
 :cherries: **Fecha**: *Descripción*
 

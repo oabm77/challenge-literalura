@@ -1,5 +1,6 @@
 package com.oabm77.literalura;
 
+import com.oabm77.literalura.principal.Principal;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,6 +14,8 @@ public class LiteraluraApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Aquí se hace llamado a la clase principal");
+		Principal principal = new Principal();
+		System.out.println("Cargando datos: ");
+		principal.getDatosLibros();
 	}
 }
